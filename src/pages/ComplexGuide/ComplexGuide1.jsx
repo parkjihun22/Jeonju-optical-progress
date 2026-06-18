@@ -70,7 +70,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.godeok-athera.co.kr/ComplexGuide/intro"
+    href="https://www.bjj-gwangshin.co.kr/ComplexGuide/intro"
   />
 
   {/* Open Graph */}
@@ -89,12 +89,12 @@ const ComplexGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.godeok-athera.co.kr/ComplexGuide/intro"
+    content="https://www.bjj-gwangshin.co.kr/ComplexGuide/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.godeok-athera.co.kr/img/og/complex.jpg"
+    content="https://www.bjj-gwangshin.co.kr/img/og/complex.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -115,12 +115,12 @@ const ComplexGuide1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.godeok-athera.co.kr/img/og/complex.jpg"
+    content="https://www.bjj-gwangshin.co.kr/img/og/complex.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.godeok-athera.co.kr/ComplexGuide/intro"
+    content="https://www.bjj-gwangshin.co.kr/ComplexGuide/intro"
   />
 
   {/* JSON-LD */}
@@ -129,11 +129,11 @@ const ComplexGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "북전주 광신프로그레스 단지배치도",
-      "url": "https://www.godeok-athera.co.kr/ComplexGuide/intro",
+      "url": "https://www.bjj-gwangshin.co.kr/ComplexGuide/intro",
       "description": "북전주 광신프로그레스 단지배치도 페이지입니다. 전북특별자치도 전주시 덕진구 고랑동 742번지 일원에 조성되는 북전주 광신프로그레스의 단지 구성과 조경 특화, 커뮤니티 시설, 보행 동선 및 생활 환경을 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.godeok-athera.co.kr/img/og/complex.jpg",
+        "contentUrl": "https://www.bjj-gwangshin.co.kr/img/og/complex.jpg",
         "width": 1200,
         "height": 630
       },
@@ -144,13 +144,13 @@ const ComplexGuide1 = () => {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.godeok-athera.co.kr/"
+            "item": "https://www.bjj-gwangshin.co.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "단지배치도",
-            "item": "https://www.godeok-athera.co.kr/ComplexGuide/intro"
+            "item": "https://www.bjj-gwangshin.co.kr/ComplexGuide/intro"
           }
         ]
       }

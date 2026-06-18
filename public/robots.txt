@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.godeok-athera.co.kr/sitemap.xml
+Sitemap: https://www.bjj-gwangshin.co.kr/sitemap.xml

@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
       name="description"
       content="북전주 광신프로그레스 계약안내. 당첨자 계약 절차, 계약 일정, 계약 시 필요서류, 계약금 납부 및 유의사항을 확인하세요."
     />
-    <link rel="canonical" href="https://www.godeok-athera.co.kr/SalesInfo/SubscriptionGuide" />
+    <link rel="canonical" href="https://www.bjj-gwangshin.co.kr/SalesInfo/SubscriptionGuide" />
     <meta name="robots" content="index,follow" />
   </Helmet>
 

@@ -62,7 +62,7 @@ const LocationEnvironment1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.godeok-athera.co.kr/LocationEnvironment/primium"
+    href="https://www.bjj-gwangshin.co.kr/LocationEnvironment/primium"
   />
 
   <meta name="robots" content="index,follow" />

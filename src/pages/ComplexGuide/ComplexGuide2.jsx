@@ -66,7 +66,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.godeok-athera.co.kr/ComplexGuide/detailintro"
+    href="https://www.bjj-gwangshin.co.kr/ComplexGuide/detailintro"
   />
 
   <meta name="robots" content="index,follow" />
@@ -87,12 +87,12 @@ const ComplexGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.godeok-athera.co.kr/ComplexGuide/detailintro"
+    content="https://www.bjj-gwangshin.co.kr/ComplexGuide/detailintro"
   />
 
   <meta
     property="og:image"
-    content="https://www.godeok-athera.co.kr/img/og/complex.jpg"
+    content="https://www.bjj-gwangshin.co.kr/img/og/complex.jpg"
   />
 </Helmet>
 

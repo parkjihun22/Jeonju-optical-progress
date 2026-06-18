@@ -65,7 +65,7 @@ const Brand1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.godeok-athera.co.kr/Brand/intro"
+    href="https://www.bjj-gwangshin.co.kr/Brand/intro"
   />
 
   <meta name="robots" content="index,follow" />
@@ -85,12 +85,12 @@ const Brand1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.godeok-athera.co.kr/Brand/intro"
+    content="https://www.bjj-gwangshin.co.kr/Brand/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.godeok-athera.co.kr/images/og/main.jpg"
+    content="https://www.bjj-gwangshin.co.kr/images/og/main.jpg"
   />
 </Helmet>
 

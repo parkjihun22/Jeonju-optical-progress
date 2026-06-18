@@ -90,7 +90,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.godeok-athera.co.kr/SalesInfo/announcement"
+    href="https://www.bjj-gwangshin.co.kr/SalesInfo/announcement"
   />
 
   <meta name="robots" content="index,follow" />

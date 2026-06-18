@@ -60,7 +60,7 @@ const Brand2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.godeok-athera.co.kr/Brand/video"
+    href="https://www.bjj-gwangshin.co.kr/Brand/video"
   />
 
   <meta name="robots" content="index,follow" />
@@ -81,12 +81,12 @@ const Brand2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.godeok-athera.co.kr/Brand/video"
+    content="https://www.bjj-gwangshin.co.kr/Brand/video"
   />
 
   <meta
     property="og:image"
-    content="https://www.godeok-athera.co.kr/images/og/main.jpg"
+    content="https://www.bjj-gwangshin.co.kr/images/og/main.jpg"
   />
 
   {/* Twitter */}
@@ -104,7 +104,7 @@ const Brand2 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.godeok-athera.co.kr/images/og/main.jpg"
+    content="https://www.bjj-gwangshin.co.kr/images/og/main.jpg"
   />
 </Helmet>
 

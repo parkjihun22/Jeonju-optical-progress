@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "북전주 광신프로그레스", url: "https://www.godeok-athera.co.kr/" },
+  { name: "북전주 광신프로그레스", url: "https://www.bjj-gwangshin.co.kr/" },
 ];
 
 const Footer = () => {
