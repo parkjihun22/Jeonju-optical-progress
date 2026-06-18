@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.godeok-athera.co.kr/sitemap.xml
